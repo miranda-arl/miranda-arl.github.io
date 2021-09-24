@@ -15,6 +15,9 @@ article {
 
 }
 
+.right {
+    text-align: right;
+}
 section {
   content: "";
   display: table;
