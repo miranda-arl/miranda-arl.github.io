@@ -1,9 +1,30 @@
 body {
   background-color: lightgrey;
   font-family: "Arial Black", Helvetica, sans-serif;
-  text-align: center;
 }
 
-#nav_bar_style {
+.columns {
 
+}
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+
+
+}
+
+section {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+footer {
+
+}
+.center {
+    text-align: center;
 }
