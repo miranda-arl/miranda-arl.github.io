@@ -4,9 +4,9 @@ body {
 }
 
 article {
-  float: center;
+  float: left;
   padding: 8px;
-  width: 60%;
+  width: 50%;
   background-color: #f1f1f1;
 }
 
