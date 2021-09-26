@@ -19,10 +19,6 @@ top of each other instead of next to each other, on small screens */
   }
 }
 
-ul {
-  list-style: none; /* Remove list bullets */
-}
-
 .right {
     text-align: right;
 }
