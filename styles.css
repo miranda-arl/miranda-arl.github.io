@@ -30,7 +30,9 @@ section {
 
 footer {
 
+  text-align: center;
 }
 .center {
+    background-color: black;
     text-align: center;
 }
