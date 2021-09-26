@@ -7,7 +7,7 @@ article {
   float: left;
   padding: 8px;
   width: 50%;
-  background-color: #f1f1f1;
+  background-color: "lightgrey";/*#f1f1f1;*/
   margin: 0px 0px 0px 150px;
 }
 
@@ -30,7 +30,7 @@ footer {
   text-align: center;
   background-color: black;
   padding: 10px;
-  color: "lightgrey";
+  color: white;
 }
 .center {
     text-align: center;
