@@ -20,7 +20,7 @@ top of each other instead of next to each other, on small screens */
 }
 
 .backgroundImage {
-    background-image: url('https://media2.giphy.com/media/krQzJaxbU1aXS/200w.gif?cid=82a1493bdzuagd6080yiqimcwor1cvj6xwtm4aht9gr143bp&rid=200w.gif&ct=g');'/*url('https://media.cntraveler.com/photos/585076119828a0b14a4645dc/1:1/w_1536,h_1536,c_limit/tromso-norway-northern-lights-GettyImages-613887400.jpg');
+    background-image: url('https://media2.giphy.com/media/krQzJaxbU1aXS/200w.gif?cid=82a1493bdzuagd6080yiqimcwor1cvj6xwtm4aht9gr143bp&rid=200w.gif&ct=g');/*url('https://media.cntraveler.com/photos/585076119828a0b14a4645dc/1:1/w_1536,h_1536,c_limit/tromso-norway-northern-lights-GettyImages-613887400.jpg');
 */
 }
 section::after {
