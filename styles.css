@@ -8,9 +8,6 @@ article {
   padding: 8px;
   width: 50%;
   margin: 0px 0px 0px 150px;
-  color: white;
-  border: 5px ridge blue;
-  background-color: grey;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on
