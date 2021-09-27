@@ -33,4 +33,7 @@ footer {
 }
 .center {
     text-align: center;
+    border:5px ridge black;
+    color:black;
+    background-color:white;
 }
