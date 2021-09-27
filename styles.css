@@ -25,6 +25,8 @@ section::after {
   content: "";
   display: table;
   clear: both;
+  color: white;
+  border: 5px double blue;
 }
 
 footer {
