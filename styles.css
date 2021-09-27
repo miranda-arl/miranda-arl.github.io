@@ -25,10 +25,6 @@ section::after {
   clear: both;
 }
 
-.border {
-    color: white;
-    border: 5px double blue;
-}
 footer {
   text-align: center;
   background-color: black;
