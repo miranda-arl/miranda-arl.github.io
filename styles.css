@@ -8,7 +8,7 @@ article {
   padding: 8px;
   width: 50%;
   margin: 0px 0px 0px 150px;
-  color: white; 
+  color: "white";
 }
 
 /* Responsive layout - makes the two columns/boxes stack on
@@ -28,7 +28,7 @@ section::after {
 
 footer {
   text-align: center;
-  background-color: black;
+  background-color: "black";
   padding: 10px;
   color: white;
 }
