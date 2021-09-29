@@ -33,6 +33,18 @@ footer {
 }
 .center {
     text-align: center;
+    height: 100px;
+    width: 50%;
+    border:5px ridge black;
+    padding: 50px;
+    box-sizing: border-box;
+    color:black;
+    background-color:white;
+    float:center;
+}
+
+.centerContact {
+    text-align: center;
     margin: auto;
     width: 50%;
     border:5px ridge black;
