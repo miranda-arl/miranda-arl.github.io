@@ -36,7 +36,6 @@ footer {
     height: 100px;
     width: 200px;
     border: 5px ridge black;
-    padding: 50px;
     box-sizing: border-box;
     color:black;
     background-color:white;
@@ -48,7 +47,7 @@ footer {
     margin: auto;
     width: 50%;
     border: 5px ridge black;
-    padding: 50px;
+    padding: 25px;
     box-sizing: border-box;
     color:black;
     background-color:white;
