@@ -33,9 +33,9 @@ footer {
 }
 .center {
     text-align: center;
-    height: 100px;
-    width: 50%;
-    border:5px ridge black;
+    margin: auto;
+    width: 25%;
+    border: 5px ridge black;
     padding: 50px;
     box-sizing: border-box;
     color:black;
@@ -47,7 +47,7 @@ footer {
     text-align: center;
     margin: auto;
     width: 50%;
-    border:5px ridge black;
+    border: 5px ridge black;
     padding: 50px;
     box-sizing: border-box;
     color:black;
