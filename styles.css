@@ -58,4 +58,6 @@ footer {
     height:310px;
     border:5px ridge black;
     box-shadow: 5px 10px grey;
+    float: left;
+    margin: 4px;
 }
