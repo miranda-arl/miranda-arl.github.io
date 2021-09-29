@@ -33,10 +33,10 @@ footer {
 }
 .center {
     text-align: center;
-    width: 50%;
     margin: auto;
-    padding: 50px;
+    width: 50%;
     border:5px ridge black;
+    padding: 50px;
     box-sizing: border-box;
     color:black;
     background-color:white;
