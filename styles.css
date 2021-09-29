@@ -33,7 +33,7 @@ footer {
 }
 .center {
     text-align: center;
-    margin: auto;
+    margin: 25%;
     width: 25%;
     border: 5px ridge black;
     padding: 50px;
