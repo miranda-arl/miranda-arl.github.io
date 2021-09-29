@@ -34,7 +34,7 @@ footer {
 .center {
     text-align: center;
     height: 100px;
-    width: 50px;
+    width: 200px;
     border: 5px ridge black;
     padding: 50px;
     box-sizing: border-box;
