@@ -57,7 +57,7 @@ footer {
     width:260px;
     height:310px;
     border:5px ridge black;
-    box-shadow: 5px 10px grey;
+    box-shadow: 2px 4px grey;
     float: left;
     margin: 4px;
 }
