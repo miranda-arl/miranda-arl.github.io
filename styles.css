@@ -73,3 +73,7 @@ footer {
     float: left;
     margin: 4px;
 }
+
+.inputSize {
+    width: 80%;
+}
