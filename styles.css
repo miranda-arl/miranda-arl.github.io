@@ -37,8 +37,8 @@ footer {
     margin:auto;
     border: 5px ridge black;
     box-sizing: border-box;
-    color:#009900;
-    background-color:#000066;
+    color:black;/*#009900;*/
+    background-color:white;/*#000066;*/
 }
 
 .centerContact {
