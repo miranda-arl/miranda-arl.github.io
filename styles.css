@@ -56,12 +56,13 @@ footer {
 .centerForm {
     text-align: center;
     width: 400px;
-    height: 125px;
+    height: 200px;
     border: 5px ridge black;
     padding: 25px;
     box-sizing: border-box;
     color:black;
     background-color:white;
+    margin:auto;
 }
 
 .image {
