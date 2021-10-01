@@ -53,6 +53,15 @@ footer {
     box-shadow: 5px 10px grey;
 }
 
+.centerForm {
+    text-align: center;
+    border: 5px ridge black;
+    padding: 25px;
+    box-sizing: border-box;
+    color:black;
+    background-color:white;
+}
+
 .image {
     width:260px;
     height:310px;
